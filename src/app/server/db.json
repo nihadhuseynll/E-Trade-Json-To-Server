@@ -1,0 +1,71 @@
+{
+  "products": [
+    {
+      "id": "94e9",
+      "urunAdi": "Domates",
+      "urunResmi": "https://images.migrosone.com/sanalmarket/product/28080000/domates-kg-c7462d-1650x1650.jpg"
+    },
+    {
+      "id": "7244",
+      "urunAdi": "Biber",
+      "urunResmi": "https://static.ticimax.cloud/3140/uploads/urunresimleri/buyuk/kirmizi-biber-capia-500-gr--46a9-.jpg"
+    },
+    {
+      "id": "1cc0",
+      "urunAdi": "Brokoli",
+      "urunResmi": "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=85/8320/uploads/urunresimleri/buyuk/marul-4d60adfc-e.jpg"
+    },
+    {
+      "id": "2a1f",
+      "urunAdi": "Yeşillik",
+      "urunResmi": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuP7sFyJBhmLSUdSBVEA7zvckQCYzCgYu1qQ&s"
+    },
+    {
+      "id": "cbc0",
+      "urunAdi": "Elma",
+      "urunResmi": "https://cdn.yemek.com/uploads/2015/10/elma-zencefil-suyu-aralik-2020.jpg"
+    },
+    {
+      "id": "3392",
+      "urunAdi": "Muz",
+      "urunResmi": "https://www.acibadem.com.tr/hayat/Images/YayinMakaleler/muzun-faydalari_943263_1.jpg"
+    },
+    {
+      "id": "7f25",
+      "urunAdi": "Çilek",
+      "urunResmi": "https://i.nefisyemektarifleri.com/2023/07/14/cilegin-faydalari-daha-once-duymadiginiz-mucize-etkileri-4.jpg"
+    },
+    {
+      "id": "64a7",
+      "urunAdi": "Şeftali",
+      "urunResmi": "https://cdn.yemek.com/mncrop/940/625/uploads/2015/04/seftali.jpg"
+    }
+  ],
+  "baskets": [
+    {
+      "id": "2a1f",
+      "urunAdi": "Yeşillik",
+      "urunResmi": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuP7sFyJBhmLSUdSBVEA7zvckQCYzCgYu1qQ&s"
+    },
+    {
+      "id": "3392",
+      "urunAdi": "Muz",
+      "urunResmi": "https://www.acibadem.com.tr/hayat/Images/YayinMakaleler/muzun-faydalari_943263_1.jpg"
+    },
+    {
+      "id": "cbc0",
+      "urunAdi": "Elma",
+      "urunResmi": "https://cdn.yemek.com/uploads/2015/10/elma-zencefil-suyu-aralik-2020.jpg"
+    },
+    {
+      "id": "7f25",
+      "urunAdi": "Çilek",
+      "urunResmi": "https://i.nefisyemektarifleri.com/2023/07/14/cilegin-faydalari-daha-once-duymadiginiz-mucize-etkileri-4.jpg"
+    },
+    {
+      "id": "64a7",
+      "urunAdi": "Şeftali",
+      "urunResmi": "https://cdn.yemek.com/mncrop/940/625/uploads/2015/04/seftali.jpg"
+    }
+  ]
+}
